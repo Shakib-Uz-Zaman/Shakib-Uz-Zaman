@@ -1,51 +1,65 @@
-# Hi, I'm G M Shakib Uz Zaman 👋
+<h1 align="center">Hi there! 👋 I'm G M Shakib Uz Zaman</h1>
 
 <p align="center">
- <img src="https://github.com/arfinaleusuf/arfinaleusuf/blob/main/image/profile%20banner.png" width="100%" />
+  <img src="YOUR_BANNER_IMAGE_LINK" alt="Profile Banner" width="100%" />
 </p>
 
+<h3 align="center">
+Competitive Programmer • CSE Undergraduate • Learning C++ & Data Structures and Algorithms
+</h3>
+
 ---
 
-<b>Competitive Programmer || CSE Student || Learning Data Structures & Algorithms || Passionate about software devolopment</b>
+## 🚀 About Me
+
+- 🎓 Undergraduate in Computer Science & Engineering
+- 💻 Learning **C++**, **Data Structures & Algorithms**
+- 🧩 Solving programming problems and improving my coding skills
+- 🌱 Exploring Software Development and Open Source
+- 📚 Always learning something new
 
 ---
 
-<h3 align="left">💻 <b>Programming Language</b></h3>
+## ⚡ Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ---
 
-<h3 align="left">🌐 <b>Web Development</b></h3>
+## 🛠 Technologies I'm Exploring
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-<h3 align="left">🗄️ <b>Database</b></h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ <b>Tools & Platform</b></h3>
+## 🌐 Connect With Me
+
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,python,pycharm,vercel" />
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
 
-<h3 align="left">📬 <b>Connect with Me</b></h3>
-<p>
-  <a href="mailto:arfinaleusuf@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/arfinaleusuf/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/arfinaleusuf"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.instagram.com/arfinaleusuf/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://discord.com/users/1339686978857209926"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://x.com/ArfinAlEusuf"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<p align="center">
+  <i>"Code. Learn. Improve. Repeat."</i> 🚀
 </p>
-
----
