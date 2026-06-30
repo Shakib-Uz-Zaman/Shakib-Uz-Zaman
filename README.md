@@ -1,4 +1,4 @@
-### Hi, I'm Shakib Uz Zaman 👋
+## Hi, I'm Shakib Uz Zaman 👋
 
 <p align="center">
   <img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Profile Banner" />
@@ -6,11 +6,11 @@
 
 ---
 
-<b>Competitive Programmer || CSE Undergraduate || Learning C++ & Data Structures and Algorithms</b>
+<b>Competitive Programmer | CSE Undergraduate | Learning C++ & Data Structures and Algorithms</b>
 
 ---
 
-<h3 align="left">💻 <b>Languages & Technologies</b></h3>
+<h3 align="left"> <b>Languages & Technologies</b></h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
@@ -18,7 +18,7 @@
 
 ---
 
-<h3 align="left">🧠 <b>Competitive Programming</b></h3>
+<h3 align="left"> <b>Competitive Programming</b></h3>
 
 <p>
   <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="left">📚 <b>Currently Learning</b></h3>
+<h3 align="left"> <b>Currently Learning</b></h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
@@ -40,14 +40,14 @@
 
 ---
 
-<h3 align="left">🛠️ <b>Developer Tools</b></h3>
+<h3 align="left"> <b>Developer Tools</b></h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
 </p>
 
 ---
-<h3 align="left">🌐 <b>Let's Connect</b></h3>
+<h3 align="left"> <b>Let's Connect</b></h3>
 
 <p>
   <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
