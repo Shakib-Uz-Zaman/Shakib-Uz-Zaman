@@ -48,10 +48,13 @@
 
 ---
 
-### 🌐 Connect with Me
+<h3 align="left">🧠 <b>Competitive Programming</b></h3>
 
-*   `👉` **[Gmail]** — [YOUR_EMAIL](mailto:YOUR_EMAIL)
-*   `💼` **[LinkedIn]** — [in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-*   `💻` **[GitHub]** — [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-*   `🔹` **[Facebook]** — [YOUR_FACEBOOK_USERNAME](https://www.facebook.com/YOUR_FACEBOOK_USERNAME)
-*   `🔸` **[Instagram]** — [@YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME)
+<p align="left">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-00ffcc?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+    <img src="https://img.shields.io/badge/CodeChef-ff0055?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
