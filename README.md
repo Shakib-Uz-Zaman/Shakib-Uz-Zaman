@@ -53,5 +53,6 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
