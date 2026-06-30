@@ -6,7 +6,7 @@
 
 ---
 
-<b>Competitive Programmer | CSE Undergraduate | Learning C++ & Data Structures and Algorithms</b>
+<h3><b>Competitive Programmer | CSE Undergraduate | Learning C++ & Data Structures and Algorithms</b></h3>
 
 ---
 
