@@ -12,15 +12,16 @@ Competitive Programmer • CSE Undergraduate • Learning C++ & Data Structures 
 
 ## 🚀 About Me
 
-- 🎓 Undergraduate in Computer Science & Engineering
-- 💻 Learning **C++**, **Data Structures & Algorithms**
-- 🧩 Solving programming problems and improving my coding skills
-- 🌱 Exploring Software Development and Open Source
-- 📚 Always learning something new
+-  Undergraduate in Computer Science & Engineering
+-  Learning **C++**, **Data Structures & Algorithms**
+-  Solving programming problems and improving my coding skills
+-  Exploring Software Development and Open Source
+- 📚
+-  Always learning something new
 
 ---
 
-## ⚡ Languages
+##  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
@@ -28,7 +29,7 @@ Competitive Programmer • CSE Undergraduate • Learning C++ & Data Structures 
 
 ---
 
-## 🛠 Technologies I'm Exploring
+##  Technologies I'm Exploring
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
@@ -36,7 +37,7 @@ Competitive Programmer • CSE Undergraduate • Learning C++ & Data Structures 
 
 ---
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -49,7 +50,7 @@ Competitive Programmer • CSE Undergraduate • Learning C++ & Data Structures 
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
