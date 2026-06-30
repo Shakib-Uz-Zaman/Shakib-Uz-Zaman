@@ -47,19 +47,11 @@
 </p>
 
 ---
-
-<h3 align="left">🤝 <b>Let's Connect</b></h3>
+<h3 align="left">🌐 <b>Let's Connect</b></h3>
 
 <p>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="YOUR_FACEBOOK_OR_TWITTER_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" />
-  </a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
-
----
