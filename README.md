@@ -6,11 +6,11 @@
 
 ---
 
-<h4><b>Competitive Programmer | CSE Undergraduate | Learning C++ & Data Structures and Algorithms</b></h4>
+<h2><b>Competitive Programmer | CSE Undergraduate | Learning C++ & Data Structures and Algorithms</b></h2>
 
 ---
 
-<h4 align="left"><b>Languages & Technologies</b></h4>
+<h2 align="left"><b>Languages & Technologies</b></h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
@@ -18,7 +18,7 @@
 
 ---
 
-<h4 align="left"><b>Competitive Programming</b></h4>
+<h2 align="left"><b>Competitive Programming</b></h2>
 
 <p>
   <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
@@ -32,7 +32,7 @@
 
 ---
 
-<h4 align="left"><b>Currently Learning</b></h4>
+<h2 align="left"><b>Currently Learning</b></h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
@@ -40,7 +40,8 @@
 
 ---
 
-<h4 align="left"><b>Developer Tools</b></h4>
+<h2 align="left"><b>Developer Tools</b></h3
+                                         2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
@@ -62,11 +63,3 @@
   <a href="https://github.com/shakibuzzaman52">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</p>  <a href="https://www.instagram.com/shakibuzzaman_52">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
-  <a href="https://www.facebook.com/shakibuzzaman52">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" />
-  </a>
-</p>
