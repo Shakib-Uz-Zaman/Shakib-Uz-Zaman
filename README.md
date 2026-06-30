@@ -51,23 +51,23 @@
 <h3 align="left"><b>Let's Connect</b></h3>
 
 <p>
-  <a href="mailto:shakibuzzaman52@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:shakibuzzaman52@gmail.com" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" style="border:0;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/shakibuzzaman52">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/shakibuzzaman52" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="border:0;" />
   </a>
 
-  <a href="https://github.com/shakibuzzaman52">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/shakibuzzaman52" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=github" style="border:0;" />
   </a>
 
-  <a href="https://www.instagram.com/shakibuzzaman_52">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://www.instagram.com/shakibuzzaman_52" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=instagram" style="border:0;" />
   </a>
 
-  <a href="https://www.facebook.com/shakibuzzaman52">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" />
+  <a href="https://www.facebook.com/shakibuzzaman52" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" style="border:0;" />
   </a>
 </p>
