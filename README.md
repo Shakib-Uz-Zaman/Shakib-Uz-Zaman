@@ -35,13 +35,7 @@
 <h3 align="left">📚 <b>Currently Learning</b></h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
-</p>
-
-<p>
-  📖 Data Structures & Algorithms <br>
-  💡 Object-Oriented Programming <br>
-  🚀 Problem Solving
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ---
@@ -49,7 +43,7 @@
 <h3 align="left">🛠️ <b>Developer Tools</b></h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,pycharm" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
 </p>
 
 ---
@@ -66,16 +60,16 @@
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="48" />
+  </a>
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Consistency beats talent when talent doesn't stay consistent."</i> 🚀
+  <i>"Code. Learn. Build. Repeat." 🚀</i>
 </p>
