@@ -6,11 +6,11 @@
 
 ---
 
-<h3><b>Competitive Programmer | CSE Undergraduate | Learning C++ & Data Structures and Algorithms</b></h3>
+<h2><b>Competitive Programmer | CSE Undergraduate | Learning C++ & Data Structures and Algorithms</b></h2>
 
 ---
 
-<h3 align="left"><b>Languages & Technologies</b></h3>
+<h2 align="left"><b>Languages & Technologies</b></h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
@@ -18,7 +18,7 @@
 
 ---
 
-<h3 align="left"><b>Competitive Programming</b></h3>
+<h2 align="left"><b>Competitive Programming</b></h2>
 
 <p>
   <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="left"><b>Currently Learning</b></h3>
+<h2 align="left"><b>Currently Learning</b></h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
@@ -40,7 +40,8 @@
 
 ---
 
-<h3 align="left"><b>Developer Tools</b></h3>
+<h2 align="left"><b>Developer Tools</b></h3
+                                         2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
@@ -48,7 +49,7 @@
 
 ---
 
-<h3 align="left"><b>Let's Connect</b></h3>
+<h2 align="left"><b>Let's Connect</b></h2>
 
 <p>
   <a href="mailto:shakibuzzaman52@gmail.com">
