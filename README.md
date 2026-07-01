@@ -21,7 +21,7 @@
 <h3 align="left"> <b>Competitive Programming</b></h3>
 
 <p>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/u/shakibuzzaman52/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
